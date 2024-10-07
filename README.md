@@ -66,4 +66,4 @@ python bot.py
 
 ## Лицензия
 
-Этот проект лицензирован под MIT License. Подробности см. в файле [LICENSE](LICENSE).
+Этот проект лицензирован под MIT License. Подробности см. в файле [LICENSE](LICENSE).(позже)
